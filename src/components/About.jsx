@@ -29,7 +29,7 @@ export default function About() {
               </p>
               <div className='text-gray-300 font-semibold'>
                 <p className='my-1'>
-                  En cuanto a mis objetivos,estoy en la búsqueda de una oportunidad laboral que me permita mejorar y poner en práctica mis habilidades en programación; tanto en el desarrollo de sitios web como en la resolución de problemas a través de algoritmos, en lo cual, trabajo y practico día a día con entusiasmo.
+                  En cuanto a mis objetivos, estoy en la búsqueda de una oportunidad laboral que me permita mejorar y poner en práctica mis habilidades en programación; tanto en el desarrollo de sitios web como en la resolución de problemas a través de algoritmos, en lo cual, trabajo y practico día a día con entusiasmo.
                 </p>
               </div>
               <p className='text-gray-400 my-1'>

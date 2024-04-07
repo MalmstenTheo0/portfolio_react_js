@@ -20,35 +20,35 @@ export default function Skills() {
         </div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={ReactImg} alt="React JS Icon" />
+            <img className='w-20 mx-auto my-4' src={ReactImg} alt="React JS Icon" />
             <p className='mt-2'>React JS</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={laravel} alt="Laravel Icon" />
+            <img className='w-20 mx-auto my-4 ' src={laravel} alt="Laravel Icon" />
             <p className='mt-2'>Laravel</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-30 h-[80px] mx-auto' src={Mysql} alt="MySQL Icon" />
+            <img className='w-30 h-[80px] mx-auto  my-4' src={Mysql} alt="MySQL Icon" />
             <p className='mt-2'>MySQL</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={GitHub} alt="GitHub Icon" />
+            <img className='w-20 mx-auto  my-4' src={GitHub} alt="GitHub Icon" />
             <p className='mt-2'>GitHub</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={HTML} alt="HTML Icon" />
+            <img className='w-20 mx-auto  my-4' src={HTML} alt="HTML Icon" />
             <p className='mt-2'>HTML</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={CSS} alt="CSS Icon" />
+            <img className='w-20 mx-auto  my-4' src={CSS} alt="CSS Icon" />
             <p className='mt-2'>CSS</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind Icon" />
+            <img className='w-20 mx-auto  my-4' src={Tailwind} alt="Tailwind Icon" />
             <p className='mt-2'>Tailwind</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-105 duration-300'>
-            <img className='w-20  mx-auto' src={JavaScript} alt='JavaScript Icon' />
+            <img className='w-20  mx-auto  my-4' src={JavaScript} alt='JavaScript Icon' />
             <p className='mt-2'>JavaScript</p>
           </div>
         </div>
