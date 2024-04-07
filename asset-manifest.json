@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio_react_js/static/css/main.4b0cbdf2.css",
+    "main.js": "/portfolio_react_js/static/js/main.eed341b5.js",
+    "static/media/MovieLand.png": "/portfolio_react_js/static/media/MovieLand.e258e6fd3469d866e578.png",
+    "static/media/twitterClone.png": "/portfolio_react_js/static/media/twitterClone.cc07bf84a83933b23c87.png",
+    "static/media/Expensetracker.png": "/portfolio_react_js/static/media/Expensetracker.5538033558c1472f6a2d.png",
+    "static/media/react.png": "/portfolio_react_js/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio_react_js/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio_react_js/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/laravel.png": "/portfolio_react_js/static/media/laravel.86200a077b86e01f46c4.png",
+    "static/media/tailwind.png": "/portfolio_react_js/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio_react_js/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mysql.png": "/portfolio_react_js/static/media/mysql.518d478f8fdd74d86900.png",
+    "static/media/javascript (1).png": "/portfolio_react_js/static/media/javascript (1).1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio_react_js/index.html",
+    "main.4b0cbdf2.css.map": "/portfolio_react_js/static/css/main.4b0cbdf2.css.map",
+    "main.eed341b5.js.map": "/portfolio_react_js/static/js/main.eed341b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0cbdf2.css",
+    "static/js/main.eed341b5.js"
+  ]
+}
